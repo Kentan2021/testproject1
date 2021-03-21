@@ -1,0 +1,1 @@
+Insert 2rows data into STG.Customertest table in JiantestDB. on 20th March, 2021
